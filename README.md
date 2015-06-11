@@ -141,6 +141,10 @@ You are a connoisseur of the open web, you would truly like to secure help for G
 >
 > Globe is built using some pretty exciting technology, this is a one-to-one opportunity to meet the developers and find out how it all works.
 
+> **£XX**
+>
+> A true visionary you know your map is about looking down. Get a unique carpet with the world projected from your living room. 
+
 ### Biography
 
 TODO biography of Workshop 14 and the whole team
