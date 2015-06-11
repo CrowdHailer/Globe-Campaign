@@ -120,7 +120,6 @@ An A4 (210mm x 297mm) print of your view through Earth from a location of your c
 > 
 > A3 PRINT & ADVANCED PREVIEW 
 An A3 (297mm x 420mm) print of your view through Earth from a location of your choice. Printed on high quality stock and delivered in a solid poster tube ready to be framed and cherished forever.
-### Biography
 
 > **£49**
 > 
@@ -142,6 +141,7 @@ You are a connoisseur of the open web, you would truly like to secure help for G
 >
 > Globe is built using some pretty exciting technology, this is a one-to-one opportunity to meet the developers and find out how it all works.
 
+### Biography
 
 TODO biography of Workshop 14 and the whole team
 
