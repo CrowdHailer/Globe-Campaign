@@ -95,9 +95,53 @@ TODO
 
 ### Rewards
 
+> **£1**
+> 
+> Thanks for helping make Globe open source - free to use for everyone for ever. Certainly a warm fuzzy feeling involved here. :-)
 
+> **£5**
+> 
+> Super warm fuzzy feelings all round. A £5.00 pledge will ensure you get a hand-written thank you postcard with some cool Globe facts on it.
 
+> **£9**
+> 
+> ADVANCED PREVIEW for you. Get involved and preview all Globe's new features with your very own login to our development site
+
+> **£18**
+> 
+> ROLL OF HONOUR. Be among the amazing few to get their name forever enshrined on the Globe project website as a thank you from us to you. You also get ADVANCED PREVIEW with this reward.
+
+> **£26**
+> 
+> A4 PRINT & ADVANCED PREVIEW 
+An A4 (210mm x 297mm) print of your view through Earth from a location of your choice. Printed on high quality stock and delivered in a solid poster tube ready to be framed and cherished forever.
+
+> **£36**
+> 
+> A3 PRINT & ADVANCED PREVIEW 
+An A3 (297mm x 420mm) print of your view through Earth from a location of your choice. Printed on high quality stock and delivered in a solid poster tube ready to be framed and cherished forever.
 ### Biography
+
+> **£49**
+> 
+> A2 PRINT & ADVANCED PREVIEW 
+An A2 (420mm x 594mm) print of your view through Earth from a location of your choice. Printed on high quality stock and delivered in a solid poster tube ready to be framed and cherished forever.
+
+> **£XXX**
+> 
+> OFFICIAL SPONSOR 
+You are a connoisseur of the open web, you would truly like to secure help for Globe as an open source project intended for the good of everyone using it.
+>
+> Advanced Preview included, your name in lights as an official sponsor of Globe on our Roll of Honour and a print of choice from the selection available.
+
+> **£XX**
+> 
+> Globe Powerhouse
+>
+> Meet the team behind Globe in London, see the source code, learn how the application works and behaves.
+>
+> Globe is built using some pretty exciting technology, this is a one-to-one opportunity to meet the developers and find out how it all works.
+
 
 TODO biography of Workshop 14 and the whole team
 
