@@ -4,7 +4,7 @@ Globe is an interactive visualisation that allows you to see right through the e
 
 ### About this project
 
-Globe is a mobile friendly web visualisation of the world from your location as if you could see through Earth.  
+#### Globe is a mobile friendly web visualisation of the world from your location as if you could see through Earth.  
 
 We all know the world is round yet world maps, as we know them, are totally flat. Projections of the globe onto a rectangle with the corners stretched and the middle squished. 
 
@@ -18,7 +18,8 @@ We all know the world is round yet world maps, as we know them, are totally flat
 
 A visualization of how Globe works. 
 A visualization of how Globe works.
-Why do we need to Kickstart Globe?  
+
+#### Why do we need to Kickstart Globe?  
 
 Apart from proving that Earth is indeed round, Globe has got a long way to go. Our first attempts are glitchy and don’t work on iPhone yet but it does prove Globe works as a concept.
 
@@ -30,43 +31,44 @@ We need a Kickstarter to turn our demo site into a fully fledged application tha
 
 Globe in action 
 Globe in action
-Our Objectives
+
+#### Our Objectives
 
 This is how we would like to use the Kickstarter Funds we raise:
 
-Turn our fledgling demo site into a stable application that can support large volumes of traffic.  
+**Turn our fledgling demo site into a stable application that can support large volumes of traffic.**
 
 Making a site that can handle request quickly takes more time than demonstrating a simple prototype. At Workshop14 we consider a site’s performance to be part of the user experience and we want to take the time to apply all the appropriate optimisations to speed up Globe
 
-Make and Keep Globe free for everyone everywhere.
+**Make and Keep Globe free for everyone everywhere.**
 
 We all know the business model where something interesting is ruined with advertising banners, we don’t want this for Globe. A successful campaign will allow us to keep adverts off the application and make Globe the free, inspiring tool it is destined to be.
 
-Enrich the Globe map graphic by adding country labels and colouring territories.  
+**Enrich the Globe map graphic by adding country labels and colouring territories.**
 
 There is a great supply of data available to enrich the Globe map experience. At the moment our prototype shows only country borders. It is a great starting point and gives an overview of the whole world but we want to add a bit more. World cities will come first but the possibilities beyond that are virtually limitless.
 
-Save personal data to your Globe map.
+**Save personal data to your Globe map.**
 
 We want users to be able to customise their experience of Globe. Perhaps you’ve got family abroad? Or offices all over the world? We would like to offer the ability to save and pin these important locations on a personalised version of Globe that you can save and share.
 
-More personalisation ideas:
+**More personalisation ideas:**
 
 We want to add world cities but why stop there? Maybe you want to show every country you have visited or you want to visualise your supply chain or show all the world's rainforests. We want to have an open platform where you can add any data you please and make Globe your own.
 
-Develop Globe to work on all mobile devices.
+**Develop Globe to work on all mobile devices.**
 
 This is the most unglamorous extra but we think it’s important. There is a limit to which phones we can support but it is one of our values to support as many devices as possible and not to release features only available to those on the newest high-price devices.
 
-Offer customised map prints on demand direct from the Globe App.
+**Offer customised map prints on demand direct from the Globe App.**
 
 Printed maps are just as important as on-screen. Once you’ve personalised your Globe App view, wouldn’t it be cool if you could print it off? We have a digital, on-demand printer lined up that will plug automatically into Globe. We would like you to be able to hit print direct from the Globe app and a few days later, a high quality print arrive on your doorstep. If we get all the way to this stage we would only need to sell a couple of prints each month to keep Globe free for ever.
 
-Do you have your own idea about how Globe could be used for good?
+**Do you have your own idea about how Globe could be used for good?**
 
 Why not email us - we will do as much as we can with our Kickstarter funds and we may be able to turn your idea into a stretch goal.
 
-How might people use Globe? 
+#### How might people use Globe? 
 
 Our hope is Globe can, in some way, bring people closer together. Families on different continents using Globe can find out exactly which direction their loved ones are in. 
 
@@ -76,7 +78,7 @@ Families with friends all over the world could order a custom print, through Glo
 
 Globe is simply a map and you will be able to use Globe in the same way you can use any other map. But what seems to make people so excited about the Globe concept is it’s unique perspective. For the first time ever, you can actually find out and visualise where something is on Earth relative to your position on the planet. 
 
-The Global Community 
+#### The Global Community 
 
 We want to make Globe free for everyone and build a community of users who will share their uniquely customised Globe maps all over the world.  That means making sure our tech is available to users with low cost and old devices.
 
