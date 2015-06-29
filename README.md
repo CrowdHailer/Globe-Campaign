@@ -76,11 +76,11 @@ The traveler on his or her year-long adventure could plot their route with Globe
 
 Families with friends all over the world could order a custom print, through Globe, of the locations of their family and friends. A company with offices all over the world could also plot the locations of those too.
 
-Globe is simply a map, and you will be able to use Globe in the same way you can use any other map. But what seems to make people so excited about the Globe concept is it’s unique perspective. For the first time ever, you can actually find out and visualise where something is on Earth relative to your position on the planet.
+Globe is simply a map, and you will be able to use Globe in the same way you can use any other map. But what really makes people so excited about the Globe concept is it’s unique perspective. For the first time ever, you can actually find out and visualise where something is on Earth relative to your position on the planet.
 
 #### The Global Community
 
-We want to make Globe free for everyone and build a community of users who will share their uniquely customised Globe maps all over the world.  That means making sure our tech is available to users with low cost and old devices.
+We want to make Globe free for everyone and build a community of users who will share their uniquely customised Globe maps all over the world.  That means making sure our technology is available to users with low cost or older devices.
 
 We would love friends of any origin to share Globe maps so they can both point to one another and, if they had a shovel, be able to tunnel a way to each other.
 
